@@ -1,5 +1,5 @@
 # Set AWS profile to use deep-dive
-export AWS_PROFILE=deep-dive
+export AWS_PROFILE=personal-infra
 
 # If you don't have jq installed, you're going to need it
 sudo apt install jq -y
